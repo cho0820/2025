@@ -141,4 +141,4 @@ if not any_emotion_selected:
     st.markdown("---")
 
 
-st.markdown("##### 혹시 또 다른 감정을 추가하고 싶거나, 해소법을 더 발전시키고 싶으면 언제든지 말해줘! 같이 멋진 웹 앱 만들어나가자! 💪")
+st.markdown("##### 감정 해소법이 궁금할 때 언제든지 찾아와!")
