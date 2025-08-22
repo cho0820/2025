@@ -47,7 +47,7 @@ if emotion_flags["슬픔/우울"]:
     st.write("- **친한 사람에게 털어놓기:** 이야기하는 것만으로도 마음이 가벼워질 때가 많아.")
     st.write("- **따뜻한 차 마시며 쉬기:** 나만이 좋아하는 영화나 책을 보면서 잠시 현실에서 벗어나 봐.")
     st.write("- **일기 쓰기:** 감정을 글로 정리하면 생각도 정리되고 후련할 수 있어.")
-    st.image("https://media.giphy.com/media/efg1o9YpI551XgK5N6/giphy.gif", caption="토닥토닥 괜찮아 💖", width=200)
+    st.image("https://media.istockphoto.com/id/1417947367/ko/%EB%B2%A1%ED%84%B0/3d-%EC%98%90%EB%A1%9C%EC%9A%B0-%EC%8A%AC%ED%94%88-%EC%9A%B8%EC%9D%8C-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98-%EC%A0%88%EC%97%B0.jpg?s=612x612&w=0&k=20&c=1VdCrOhGpoP6h_Q7ndEozZNNUY69u_lJO6iIbGDFxx4=", width=400)
     st.markdown("---") # 감정별 해소법 뒤에 구분선 추가
 
 if emotion_flags["화남/짜증"]:
@@ -58,7 +58,7 @@ if emotion_flags["화남/짜증"]:
     st.write("- **심호흡 크게 여러 번 하기:** 숨을 깊게 들이쉬고 천천히 내쉬면서 마음을 가라앉혀봐.")
     st.write("- **베개나 이불 때리기:** 안전하게 화를 푸는 방법도 있어!")
     st.write("- **잠시 상황에서 벗어나기:** 잠깐 다른 일에 집중하거나 자리를 피하는 것도 방법이야.")
-    st.image("https://media.giphy.com/media/zP780Q6tY7tN0u4B6d/giphy.gif", caption="후~ 크게 숨 쉬자! 😤", width=200)
+    st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GssYS-_EIIigcUZVf7nYFTWTiPxJfijTA&s", width=400)
     st.markdown("---")
 
 if emotion_flags["불안/걱정"]:
@@ -69,7 +69,7 @@ if emotion_flags["불안/걱정"]:
     st.write("- **걱정 목록 작성하기:** 무엇이 불안한지 적어보고, 해결 가능한 것과 불가능한 것을 구분해봐.")
     st.write("- **긍정적인 상상하기:** 잘 될 거야! 하고 스스로에게 힘을 주는 상상을 해보는 건 어때?")
     st.write("- **따뜻한 물로 샤워하기:** 몸이 이완되면서 마음도 편안해질 수 있어.")
-    st.image("https://media.giphy.com/media/zNn9q8uI6B8v2uI6d/giphy.gif", caption="차분하게 숨쉬기 😌", width=200)
+    st.image("https://www.k-health.com/news/photo/202209/61110_65169_118.jpg", width=400)
     st.markdown("---")
 
 if emotion_flags["지루함/심심"]:
@@ -80,7 +80,7 @@ if emotion_flags["지루함/심심"]:
     st.write("- **가볍게 산책하기:** 밖으로 나가 신선한 공기를 마시면 기분이 전환될 거야.")
     st.write("- **친구랑 수다 떨기:** 재밌는 이야기를 나누면서 활력을 얻어봐.")
     st.write("- **영상 만들기:** 쇼츠나 릴스 같은 나만의 영상을 만들어 보는 건 어때? 생각보다 재미있어!")
-    st.image("https://media.giphy.com/media/vK8vJ8p6jP1QdYtY7P/giphy.gif", caption="새로운 것 찾기! 🥳", width=200)
+    st.image("https://blog.speak.com/wp-content/uploads/2022/08/%E1%84%8C%E1%85%B5%E1%84%85%E1%85%AE%E1%84%92%E1%85%A2-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A5%E1%84%85%E1%85%A9-boring-bored.jpg", width=400)
     st.markdown("---")
 
 if emotion_flags["무기력함/늘어짐"]:
@@ -91,7 +91,7 @@ if emotion_flags["무기력함/늘어짐"]:
     st.write("- **환경 변화 주기:** 하던 자리에서 잠시 일어나 다른 공간으로 이동해 보거나, 창문을 열어 환기해 봐.")
     st.write("- **아무 생각 없이 멍 때리기:** '내가 왜 이렇지?' 하고 자책하기보다, 그냥 잠시 아무것도 안 해봐.")
     st.write("- **가볍게 몸 움직이기:** 좋아하는 노래를 틀어놓고 제자리 걷기 5분이라도 시도해 봐!")
-    st.image("https://media.giphy.com/media/oWjxYdDq78g1i/giphy.gif", caption="쉬어가는 중... 😴", width=200)
+    st.image("https://d2m9duoqjhyhsq.cloudfront.net/marketingContents/article/article485-03.jpg", width=400)
     st.markdown("---")
 
 if emotion_flags["설렘/기대"]:
@@ -102,7 +102,7 @@ if emotion_flags["설렘/기대"]:
     st.write("- **구체적인 계획 세우기:** 설레는 이벤트가 있다면 세부 계획을 세워 더 깊이 몰입해 봐.")
     st.write("- **긍정적인 에너지 활용하기:** 이 좋은 기운으로 평소 미뤄왔던 일을 해보는 건 어때?")
     st.write("- **나만의 방식으로 표현하기:** 그림을 그리거나, 시를 쓰는 등 설렘을 표현하는 활동을 해 봐.")
-    st.image("https://media.giphy.com/media/l4pTmOCp6p2uX/giphy.gif", caption="두근두근! 🎉", width=200) # GIF 변경
+    st.image("https://i.pinimg.com/736x/26/c7/81/26c7810ae93a44ebd5152640fa088f80.jpg", width=400) 
     st.markdown("---")
 
 if emotion_flags["피곤함/지침"]:
@@ -114,7 +114,7 @@ if emotion_flags["피곤함/지침"]:
     st.write("- **눈 운동하기:** 먼 곳과 가까운 곳을 번갈아 보거나, 눈 감고 손바닥으로 눈을 살짝 덮어 쉬게 해줘.")
     st.write("- **스트레칭 하기:** 의자에 앉아서 어깨를 뒤로 돌리거나, 목을 좌우로 쭉 늘려주는 간단한 스트레칭만 해도 피로가 좀 풀릴 거야.")
     st.write("- **시원한 물 마시기:** 졸음이 올 땐 시원한 물 한 잔이 도움이 돼!")
-    st.image("https://media.giphy.com/media/l1L2uY4F3Yp81d77G/giphy.gif", caption="쿨쿨.. 잠이 보약! 😴", width=200)
+    st.image("https://image.dongascience.com/Photo/2019/01/ad5119d6bb549a9ed9e3a897f91eb527.jpg", width=400)
     st.markdown("---")
 
 if emotion_flags["열등감/비교"]:
@@ -125,7 +125,7 @@ if emotion_flags["열등감/비교"]:
     st.write("- **SNS 잠시 멀리하기:** 다른 사람의 완벽해 보이는 모습은 잠시 잊고, 나 자신을 돌보는 시간을 가져.")
     st.write("- **긍정적인 자기 암시:** 거울을 보며 '나는 소중한 존재야', '나는 충분히 잘하고 있어'라고 말해줘.")
     st.write("- **나만의 속도에 집중하기:** 남들과 비교하지 말고, 어제보다 더 나은 오늘을 만들려고 노력해 봐.")
-    st.image("https://media.giphy.com/media/3o7bu3bU86g9c01sVG/giphy.gif", caption="넌 충분히 멋져! 🌟", width=200)
+    st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQRakKTnq9A5O-PUjoYcgKYovQZFgH1XwsQ&s", width=400)
     st.markdown("---")
 
 # 아무 감정도 선택되지 않았을 때 일반적인 조언 표시
@@ -137,7 +137,7 @@ if not any_emotion_selected:
     st.write("- **낮잠 자기:** 충분한 휴식은 마음을 편안하게 해줘.")
     st.write("- **셀프 칭찬하기:** '오늘도 수고했어!' 하면서 스스로를 안아줘! 넌 최고! 👍")
     st.write("- **좋아하는 드라마나 유튜브 보기:** 가볍게 즐길 수 있는 콘텐츠로 스트레스 풀기!")
-    st.image("https://media.giphy.com/media/v1.giphy.com/media/M9wQYjMv13G8Lw3LzP/giphy.gif", caption="넌 최고! 👍", width=200)
+    st.image("https://media.giphy.com/media/v1.giphy.com/media/M9wQYjMv13G8Lw3LzP/giphy.gif", caption="넌 최고! 👍", width=400)
     st.markdown("---")
 
 
